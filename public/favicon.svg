@@ -1,0 +1,28 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 100 100"
+>
+  <defs>
+    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff2a2a"/>
+      <stop offset="100%" stop-color="#b00000"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Fundo transparente -->
+  <rect width="100" height="100" fill="transparent" />
+
+  <!-- N estilizado (grande, centralizado) -->
+  <path
+    d="M30 15 L45 15 L70 85 L55 85 Z"
+    fill="url(#redGradient)"
+  />
+  <path
+    d="M30 15 L45 15 L45 85 L30 85 Z"
+    fill="#e50914"
+  />
+  <path
+    d="M55 15 L70 15 L70 85 L55 85 Z"
+    fill="#b20710"
+  />
+</svg>
