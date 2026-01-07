@@ -1,16 +1,28 @@
-# React + Vite
+# 🎬 Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Clone da plataforma Netflix construído com React + Vite + TMDB API
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
+- React 18
+- Tailwind CSS 3
+- Axios
+- React Router DOM
+- TMDB API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 🎥 8+ categorias de filmes/séries
+- 🔍 Sistema de busca
+- ⭐ Lista de favoritos
+- 📱 100% Responsivo
+- ♾️ Infinite Scroll
+- 🎬 Modal com trailers do YouTube
+- ⚡ Loading skeletons
 
-## React Compiler
+## 🔗 Demo
+[Ver projeto online](https://netflix-clone-df.vercel.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Screenshots
+(<img width="1446" height="807" alt="image" src="https://github.com/user-attachments/assets/f53b7fc1-719a-4b7a-8a50-d7dd57c3b624" />
+<img width="1908" height="920" alt="image" src="https://github.com/user-attachments/assets/2e0666be-cef3-4169-b1a3-4c4bc4c761e3" />
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+)
